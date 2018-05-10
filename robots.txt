@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /favicon.ico.ico
+
+Sitemap: https://zl517.github.io/sitemap.xml
